@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+    
+}
+.principal{
+    background-color: aquamarine;
+    text-align: center;
+}
+.segunda {
+    background-color: rgb(255, 127, 176);
+    text-align: left;
+}
+.tercera {
+    background-color:rgb(196, 110, 79)
+    text-align: right;
+    
+
+}
+       
